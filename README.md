@@ -24,7 +24,6 @@
         </ol>
         <h2>Usage:</h2>
         <p>Upload your image and specify the desired thumbnail size. Click the "Generate Thumbnail" button to create your thumbnail.</p>
-        <a href="#" class="btn">Generate Thumbnail</a>
         <h2>Contributing:</h2>
         <p>Contributions are welcome! Feel free to fork the repository and submit pull requests.</p>
     </div>
