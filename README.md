@@ -16,16 +16,10 @@
             <li>Customize thumbnail size</li>
             <li>Supports various image formats</li>
         </ul>
-        <h2>Getting Started:</h2>
-        <ol>
-            <li>Clone the repository: <code>git clone https://github.com/your-username/thumbnailmaker.git</code></li>
-            <li>Open the project directory</li>
-            <li>Run <code>index.html</code> in your browser</li>
-        </ol>
-        <h2>Usage:</h2>
-        <p>Upload your image and specify the desired thumbnail size. Click the "Generate Thumbnail" button to create your thumbnail.</p>
-        <h2>Contributing:</h2>
+              <h2>Contributing:</h2>
         <p>Contributions are welcome! Feel free to fork the repository and submit pull requests.</p>
     </div>
+    <h2>Contact</h2>
+    <p>If you have any questions or suggestions regarding this project, feel free to contact me via <a href="https://www.linkedin.com/in/manan-chandna-697588257/">LinkedIn</a>.</p>
 </body>
 </html>
