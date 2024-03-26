@@ -1,4 +1,4 @@
-![image](https://github.com/MananChandna/Thumbnailmaker/assets/139998502/b3421299-f04b-47c2-b14c-b1a542e83ec2)
+![image](https://github.com/MananChandna/Thumbnail-maker/assets/139998502/da360aa2-2655-425f-bc72-b90a1820bea4)
 
 <!DOCTYPE html>
 <html lang="en">
